@@ -2,7 +2,14 @@
   border: 5px solid;
   padding: 15px;
   width: 50%;
-  margin: auto;
+  /* margin: auto; */
+
+  /* to  position the outBox at the center of page*/
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
 
 .titleText {

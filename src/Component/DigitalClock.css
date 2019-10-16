@@ -1,0 +1,24 @@
+.outBox {
+  border: 5px solid;
+  padding: 15px;
+  width: 50%;
+  margin: auto;
+}
+
+.titleText {
+  font-size: 30px;
+  color: gray;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.digitalClock {
+  font-size: 30px;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  word-spacing: 10px;
+  text-align: center;
+  padding: 10px;
+}

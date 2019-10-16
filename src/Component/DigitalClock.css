@@ -2,9 +2,8 @@
   border: 5px solid;
   padding: 15px;
   width: 50%;
-  /* margin: auto; */
 
-  /* to  position the outBox at the center of page*/
+  /* to center the outbox in the page */
   position: fixed;
   top: 50%;
   left: 50%;
@@ -17,7 +16,6 @@
   color: gray;
   font-weight: bold;
   padding: 0 10px;
-  text-align: center;
 }
 
 .digitalClock {
@@ -26,6 +24,5 @@
   border-radius: 10px;
   color: white;
   word-spacing: 10px;
-  text-align: center;
-  padding: 10px;
+  /* text-align: center; */
 }
